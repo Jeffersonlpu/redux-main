@@ -22,7 +22,7 @@ function Header() {
   };
 
   const handleLoginClick = () => {
-    dispatch(loginUser({ name: "Felipe Rocha", email: "felipe@rocha.com" }));
+    dispatch(loginUser({ name: "Jefferson Silva", email: "jefferson@silva.com" }));
   };
 
   const handleLogoutClick = () => {
